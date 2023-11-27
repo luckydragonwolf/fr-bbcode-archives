@@ -1,1 +1,46 @@
+[columns]
+[center][font=Copperplate Gothic][size=6] [b]⋘NAME⋙[/b] [/size][/font]
+——-
+[center][color=gray][i]est. cost: [ cost here ]
+——- -----
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=101&bodygene=10&breed=12&element=1&eyetype=0&gender=0&tert=128&tertgene=10&winggene=82&wings=101&auth=cddead6aefda6256beb8af589476de3ff098e5be&dummyext=prev.png[/img]
+[nextcol]
+[item=breed change: coatl] 
+-----
+[item=primary gene: cherub]
+-----
+[item=secondary gene: flair]
+-----
+[item=tertiary gene: glimmer]
+-----
+[nextcol]
+[color=red] 
+[font=times]
+NOT OBTAINED
+-----
+[font=times][color=red] BOUGHT FOR: N/A
 
+
+[color=green] 
+[font=times]
+OBTAINED
+-----
+[font=times][color=green] BOUGHT FOR: 172050 [emoji=treasure size=1]
+
+
+[color=green] 
+[font=times]
+OBTAINED
+-----
+[font=times][color=green] BOUGHT FOR: 153450 [emoji=treasure size=1]
+
+
+[color=red] 
+[font=times]
+NOT OBTAINED
+-----
+[font=times][color=red] BOUGHT FOR: N/A [/columns]
+
+[right][color=gray] [size=2]✎code by [url=https://www1.flightrising.com/clan-profile/618561]luckydragonwolf[/url][/right]
+
+-----
